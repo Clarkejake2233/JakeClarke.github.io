@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Data Analyst Associate"
+  name             : "Jake Clarke"
   avatar           : "profile.png"
   bio              : "Bachelors of Science in Information Technology"
   location         : "Olalla, Washington"
-  employer         : "Degrees of Change"
+  employer         : "Data Analyst Associate: Degrees of Change"
   pubmed           : 
   googlescholar    : 
   email            : "clarkejake2233@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jake-clarke-82240a1a5/"
   orcid            : 
   pinterest        :
   soundcloud       :
