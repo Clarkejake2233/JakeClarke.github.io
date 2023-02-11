@@ -11,7 +11,7 @@ title                    : "Overview"
 title_separator          : "-"
 name                     : &name "Jake Clarke"
 description              : &description "Current Role: Data Analyst Associate at Degrees of Change"
-url                      : https://clarkejake2233.github.io/PersonalWebsite/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://clarkejake2233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Clarkejake2233/clarkejake2233.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Bachelors of Science in Information Technology"
   location         : "Olalla, Washington"
-  employer         : "Data Analyst Associate: Degrees of Change"
+  employer         : "Data Analyst Associate: 
+                      Degrees of Change"
   pubmed           : 
   googlescholar    : 
   email            : "clarkejake2233@gmail.com"
