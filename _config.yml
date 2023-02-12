@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Overview"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Jake Clarke"
 description              : &description "Current Role: Data Analyst Associate at Degrees of Change"
